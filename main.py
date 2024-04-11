@@ -1,3 +1,4 @@
+#главное
 from PyQt5.QtWidgets import QApplication
 from first import First
 from second import Second

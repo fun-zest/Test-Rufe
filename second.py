@@ -1,4 +1,4 @@
-#ввод
+#ввод информации
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout
 
 class Second():
